@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">TinNews</string>
+<string name="title_home">Home</string>
+<string name="title_save">Save</string>
+<string name='title_search'>Search</string>
+<string name="title_detail">Detail</string>
+    <string name='author'>Author</string>
+    <string name="description">Description</string>
+
+</resources>
